@@ -4,6 +4,10 @@ Create a new branch is quick & simple.
 =======
 Creating a new branch is quick AND simple.
 >>>>>>> feature1
+<<<<<<< HEAD
 for dev
 for dev.
 for dev..
+=======
+for a dev
+>>>>>>> 596939f... fix bug 101
